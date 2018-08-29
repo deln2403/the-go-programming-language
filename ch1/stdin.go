@@ -1,9 +1,9 @@
 package main
 
 import (
-	"os"
-	"fmt"
 	"bufio"
+	"fmt"
+	"os"
 )
 
 func main() {
@@ -16,4 +16,3 @@ func main() {
 		fmt.Println("error")
 	}
 }
-
