@@ -2,14 +2,10 @@
 
 ## 1.3 Finding Duplicate lines
 ### a)
-`
-go build dup1.go 
-cat test_abc.txt | ./dup1
-`
-## b)
-`go run dup2.go test_abc.txt test_123.txt`
-### c)
-`go run dup3.go test_abc.txt test_123.txt`
+`go build dup1.go`
+`cat test_abc.txt | ./dup1`
+### b) `go run dup2.go test_abc.txt test_123.txt`
+### c)`go run dup3.go test_abc.txt test_123.txt`
 
 ## 1.4 Animated GIFs
 `go run lissajous.go > out.gif`
