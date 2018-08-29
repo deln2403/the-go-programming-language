@@ -29,3 +29,6 @@
 ### c) server3
 `go run server3.go`
 `curl localhost:8080`
+### d) server4
+`go run server4.go`
+In browser, navigate to http://localhost:8080
